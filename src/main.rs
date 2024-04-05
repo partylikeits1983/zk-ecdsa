@@ -1,4 +1,3 @@
-use hex;
 use std::fs::{self, File};
 use std::io::{self, BufRead, Write};
 use std::path::Path;
